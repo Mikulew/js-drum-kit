@@ -22,3 +22,6 @@ A **drum set** – also called a **drum kit**, **trap set** (an abbreviation of 
 ## Resource
 
 It was my first time with programming experience, so one lesson is copy-paste from [javascript30](https://javascript30.com/) by [Wes Bos](https://www.youtube.com/c/WesBos).
+- [MDN: HTML \<kbd\> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd)
+- [HTML Specification: The kbd element](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-kbd-element)
+- [MDN: transitionend event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/transitionend_event)
